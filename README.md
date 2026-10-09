@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I built SportsBoard – a mobile app for sports match updates, ticketing, and player selection in Nepal<br><br> I’m learning full-stack development through projects in event management, billing systems, and interactive web/mobile applications.<br><br> I’m looking to collaborate on projects that solve real-world problems and have a lasting impact.<br><br> Fun fact: I often start with “just a small tweak” in my code and end up building a whole new feature or project.<br><br> How to reach me: lamichhaneanuja24@gmail.com
+I built SportsBoard – a mobile app for sports match updates, ticketing, and player selection in Nepal<br><br> I’m learning full-stack development through projects in event management, billing systems, and interactive web/mobile applications.<br><br> I’m looking to collaborate on projects that solve real-world problems and have a lasting impact.<br><br> Fun fact: I often start with “just a small tweak” in my code and end up building a whole new feature or project.<br><br> How to reach me: lamichhaneanuja24@gmail.com
 
 
 ##  Socials:
